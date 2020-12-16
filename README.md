@@ -1,5 +1,5 @@
 # Future-Margin-Visual-Tool
-该工具为本人在量化私募实习时独立编写的小工具，用于实施显示对冲期货价差。
+该工具为本人在量化私募实习时独立编写的小工具，用于实时显示对冲期货价差。
 This tool is a small tool that I wrote independently during an internship in a quant PE to display the margin of hedging futures.
 
 项目要求
@@ -8,7 +8,7 @@ This tool is a small tool that I wrote independently during an internship in a q
 
 Project requirement
 1.Real-time display futures' price & margin.
-2.Can put in futures contract & spot,showing the value of portfolio.
+2.Can put in futures contract & spot, showing the value of the portfolio.
 
 技术栈
 语言：Python（3.7）
@@ -27,5 +27,5 @@ main.py 主文件
 run_main.bat 启动文件
 
 The project file
-main.py: mian code file
-run_main.bat: run to start project
+main.py: main code file
+run_main.bat: run to start the project
