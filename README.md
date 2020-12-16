@@ -21,3 +21,11 @@ Language: Python（3.7）
 Data Processing: Pandas NumPy 
 Data Visualization: Bokeh
 Futures Data Capturing: AkShare
+
+项目文件
+main.py 主文件
+run_main.bat 启动文件
+
+The project file
+main.py: mian code file
+run_main.bat: run to start project
